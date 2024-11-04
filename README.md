@@ -1,1 +1,2 @@
 # PRODIGY_WD_04
+A personal portfolio built with HTML, CSS, and JavaScript showcases your skills, projects, and contact information. The HTML structures sections like Home, About, Skills, and Projects; CSS adds a professional design with animations and color themes; and JavaScript enables interactive elements, like a contact form. This project highlights your abilities and creates an engaging experience for recruiters and visitors.
